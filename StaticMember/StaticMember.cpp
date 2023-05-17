@@ -25,3 +25,7 @@ void mahasiswa::printAll() {
 	cout << "NIM = " << nim << endl;
 	cout << endl;
 }
+
+int main() {
+	mahasiswa mhs1("Lia Kurnia");
+}
